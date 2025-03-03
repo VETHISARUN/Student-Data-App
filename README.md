@@ -28,15 +28,7 @@ The Student Data Management App is an Android application that allows users to a
 4. Tap a student entry to **edit** or **delete** the record.
 5. Click **Reset** to clear input fields.
 
-## Database Structure
-The `students` table contains:
-- `name` (TEXT)
-- `course` (TEXT)
-- `grade` (TEXT)
-- `email` (TEXT)
-- `phone` (TEXT)
-- `created_at` (TEXT)
-- `updated_at` (TEXT)
+
 
 
 
