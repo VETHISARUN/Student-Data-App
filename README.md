@@ -32,6 +32,5 @@ The Student Data Management App is an Android application that allows users to a
 
 
 
-## License
-This project is open-source and free to use under the MIT License.
+
 
